@@ -1,0 +1,5 @@
+#!/Users/johankarkaria/mlops_projects/mlproject-main/studentscore_venv/bin/python3.12
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
